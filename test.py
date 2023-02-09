@@ -1,7 +1,7 @@
-# list of sequences
+# List of sequences
 sequences = ['A', 'C', 'G', 'T','G', 'A', 'C', 'A','O','V','D']
 
-# function that filters vowels
+# Function that filters vowels
 def filterAminoacid(sequence):
     Aminoacid = ['A', 'C', 'O', 'V']
 
